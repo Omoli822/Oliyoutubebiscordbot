@@ -1,0 +1,15 @@
+{
+  "name": "oliyoutubebiscordbot",
+  "version": "1.0.0",
+  "description": "hi and welcome to the best discord bot on discord im the best i have youtube and more # youtube i hope you herd of omoli or fireflykite becuse thats who i am ©️omoli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "omoli",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
